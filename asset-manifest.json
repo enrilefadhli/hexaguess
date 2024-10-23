@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/guess-hex-color/static/css/main.350ab7ab.css",
+    "main.js": "/guess-hex-color/static/js/main.5e304c4c.js",
+    "static/js/453.da458ab6.chunk.js": "/guess-hex-color/static/js/453.da458ab6.chunk.js",
+    "index.html": "/guess-hex-color/index.html",
+    "main.350ab7ab.css.map": "/guess-hex-color/static/css/main.350ab7ab.css.map",
+    "main.5e304c4c.js.map": "/guess-hex-color/static/js/main.5e304c4c.js.map",
+    "453.da458ab6.chunk.js.map": "/guess-hex-color/static/js/453.da458ab6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.350ab7ab.css",
+    "static/js/main.5e304c4c.js"
+  ]
+}
