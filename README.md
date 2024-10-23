@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🎨 Hexaguess : Guess the Hex Code
 
 ## Overview
